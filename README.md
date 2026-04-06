@@ -17,9 +17,11 @@
    - https://github.com/kasey6801/learn-by-building/blob/main/1.1a%20claude-music-setup-v1-plan-explained.md  
    
 2. A summmary of the interaction with the LLM  
+
    - https://github.com/kasey6801/learn-by-building/blob/main/1.2a%20claude-music-setup-session-summary.md
      
-3. How the summary (2) was completed  
+4. How the summary (2) was completed  
+
    - https://github.com/kasey6801/learn-by-building/blob/main/1.3a%20claude-music-setup-session-summary-meta.md  
   
 These three documents provide an overview of the process, specific to each project. The documents have been created with non-developers in mind.
