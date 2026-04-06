@@ -37,4 +37,6 @@ Additional Resources
 - https://www.sabrina.dev/
 - https://www.youtube.com/@sabrina_ramonov
 
+All code hosted here is free to use (see the license file). 
+
 Have fun learning!
