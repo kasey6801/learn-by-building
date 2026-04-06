@@ -25,7 +25,7 @@ These three documents provide an overview of the process, specific to each proje
 https://themultiverse.school
 
 <h3>Questions?</h3>
-- You can build understanding and skills along the way, by asking the LLMs (Claude, Gemini, ChatGPT, Qwen, DuckAI, Lumo etc.) to help you learn. 
+You can build understanding and skills along the way, by asking the LLMs (Claude, Gemini, ChatGPT, Qwen, DuckAI, Lumo etc.) to help you learn. 
 
 <h3>Are you new to GitHub?</h3>h3
 Github is an open source tool that enables version control for program files and supporting documents. To learn more, check out these resources:
