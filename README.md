@@ -13,11 +13,11 @@ https://github.com/kasey6801/learn-by-building/blob/main/learning%20by%20buildin
 
 <h3>If you're ready for a closer look, look at the three documents I share for each project: </h3>
 
-- - An explanation of how development was done: https://github.com/kasey6801/learn-by-building/blob/main/1.1a%20claude-music-setup-v1-plan-explained.md  
+-  An explanation of how development was done: https://github.com/kasey6801/learn-by-building/blob/main/1.1a%20claude-music-setup-v1-plan-explained.md  
 
-- - A summmary of the interaction with the LLM: https://github.com/kasey6801/learn-by-building/blob/main/1.2a%20claude-music-setup-session-summary.md
+-  A summmary of the interaction with the LLM: https://github.com/kasey6801/learn-by-building/blob/main/1.2a%20claude-music-setup-session-summary.md
 
-- - How the summary (2) was completed: https://github.com/kasey6801/learn-by-building/blob/main/1.3a%20claude-music-setup-session-summary-meta.md  
+-  How the summary (2) was completed: https://github.com/kasey6801/learn-by-building/blob/main/1.3a%20claude-music-setup-session-summary-meta.md  
   
 These three documents provide an overview of the process, specific to each project. The documents have been created with non-developers in mind.
 
