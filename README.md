@@ -39,9 +39,13 @@ Github is an open source tool that enables version control for program files and
 
 <h3>Learn more about Claude Cowork & Claude Code </h3>
 - https://www.youtube.com/watch?v=JhRgmQPv2Sg
+
 - https://ccforeveryone.com
+
 - https://support.claude.com/en/articles/13345190-get-started-with-cowork
+
 - https://www.youtube.com/watch?v=ntDIxaeo3Wg
+
 - https://code.claude.com/docs/en/quickstart
 
 <h3>Additional Resources </h3>
