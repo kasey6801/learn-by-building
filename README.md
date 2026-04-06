@@ -9,7 +9,7 @@
 - Creative thinking – Approaching problems from multiple angles and generating original ideas
 
 <h3>To learn more about how I appraoch this, start here:</h3>
-- https://github.com/kasey6801/learn-by-building/blob/main/learning%20by%20building.md
+https://github.com/kasey6801/learn-by-building/blob/main/learning%20by%20building.md
 
 <h3>If you're ready for a closer look, look at the three documents I share for each project: </h3>
 1. An explanation of how development was done  
@@ -26,8 +26,8 @@
   
 These three documents provide an overview of the process, specific to each project. The documents have been created with non-developers in mind.
 
-Your most valuable learning resource is, as always community. Here's one that is informative, helpful and welcoming: 
-- https://themultiverse.school
+<h3>Your most valuable learning resource is, as always community. Here's one that is informative, helpful and welcoming: </h3>
+https://themultiverse.school
 
 <h3>Questions?</h3>
 - You can build understanding and skills along the way, by asking the LLMs (Claude, Gemini, ChatGPT, Qwen, DuckAI, Lumo etc.) to help you learn. 
