@@ -30,7 +30,7 @@ https://github.com/kasey6801/learn-by-building/blob/main/learning%20by%20buildin
 These three documents provide an overview of the process, specific to each project. The documents have been created with non-developers in mind.
 
 <h2>Your most valuable learning resource is, as always community. Here's one that is informative, helpful and welcoming: </h2>
-https://themultiverse.school
+- https://themultiverse.school
 
 <h2>Questions?</h2>
 You can build understanding and skills along the way, by asking the LLMs (Claude, Gemini, ChatGPT, Qwen, DuckAI, Lumo etc.) to help you learn. 
