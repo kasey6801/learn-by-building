@@ -12,6 +12,8 @@ The files are:
    - https://github.com/kasey6801/learn-by-building/blob/main/1.2a%20claude-music-setup-session-summary.md
 3. How the summary (2) was completed
    - https://github.com/kasey6801/learn-by-building/blob/main/1.3a%20claude-music-setup-session-summary-meta.md
+  
+These three files provide an overview of the process, specific to each project.
 
 The skills you will lean on to use these tools are:
 - Critical thinking and analysis – Evaluating arguments, identifying biases, and assessing evidence
