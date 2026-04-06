@@ -19,6 +19,8 @@ https://github.com/kasey6801/learn-by-building/blob/main/learning%20by%20buildin
 
 <h3>If you're ready for a closer look, review the three documents I share for each project: </h3>
 
+<h2> Claude Music Setup </h2>
+
 -  An explanation of how development was done: https://github.com/kasey6801/learn-by-building/blob/main/1.1a%20claude-music-setup-v1-plan-explained.md  
 
 -  A summmary of the interaction with the LLM: https://github.com/kasey6801/learn-by-building/blob/main/1.2a%20claude-music-setup-session-summary.md
