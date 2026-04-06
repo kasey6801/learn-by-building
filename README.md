@@ -29,6 +29,7 @@ You can build understanding and skills along the way, by asking the LLMs (Claude
 
 <h3>Are you new to GitHub?</h3>h3
 Github is an open source tool that enables version control for program files and supporting documents. To learn more, check out these resources:
+
 - https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs
 - https://learn.github.com
 
