@@ -40,7 +40,9 @@ Github is an open source tool that enables version control for program files and
 - https://learn.github.com
 
 <h3>What format are the documents in? </h3>
+
 - https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it
+
 - https://www.markdownguide.org
 
 <h3>Learn more about Claude Cowork & Claude Code </h3>
