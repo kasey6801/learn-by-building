@@ -7,7 +7,8 @@ If you're ready for a closer look, look at the three files I share for each proj
 
 The files are:
 1. A file to explain how development was done
-2. A summmary of 
+   - https://github.com/kasey6801/learn-by-building/blob/main/1.1a%20claude-music-setup-v1-plan-explained.md
+3. A summmary of 
 
 The skills you will lean on to use these tools are:
 - Critical thinking and analysis – Evaluating arguments, identifying biases, and assessing evidence
