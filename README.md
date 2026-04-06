@@ -58,8 +58,11 @@ Github is an open source tool that enables version control for program files and
 - https://code.claude.com/docs/en/quickstart
 
 <h3>Additional Resources </h3>
+
 - https://www.criticalthinking.org/
+
 - https://www.sabrina.dev/
+
 - https://www.youtube.com/@sabrina_ramonov
 
 
