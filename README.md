@@ -1,4 +1,4 @@
-**This repository focuses on providing assistance for non-developers new to using code as a productivity tool.**
+<h1>This repository focuses on providing assistance for non-developers new to using code as a productivity tool.<h/>
 
 The skills you will lean on to use these tools are:
 - Critical thinking and analysis – Evaluating arguments, identifying biases, and assessing evidence
@@ -21,10 +21,11 @@ If you're ready for a closer look, look at the three documents I share for each 
   
 These three documents provide an overview of the process, specific to each project. The documents have been created with non-developers in mind.
 
-Questions? You can build understanding and skills along the way, by asking the LLMs (Claude, Gemini, ChatGPT, Qwen, DuckAI, Lumo etc.) to help you learn. 
-
 Your most valuable learning resource is, as always community. Here's one that is informative, helpful and welcoming: 
 - https://themultiverse.school
+
+Questions? 
+- You can build understanding and skills along the way, by asking the LLMs (Claude, Gemini, ChatGPT, Qwen, DuckAI, Lumo etc.) to help you learn. 
 
 Are you new to GitHub? 
 Github is an open source tool that enables version control for program files and supporting documents. To learn more, check out these resources:
