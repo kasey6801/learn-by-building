@@ -1,20 +1,5 @@
 **This repository focuses on providing assistance for non-developers new to using code as a productivity tool.**
 
-To learn more about how I appraoch this, start here: 
-- https://github.com/kasey6801/learn-by-building/blob/main/learning%20by%20building.md
-
-If you're ready for a closer look, look at the three files I share for each project. 
-
-The files are:
-1. A file to explain how development was done
-   - https://github.com/kasey6801/learn-by-building/blob/main/1.1a%20claude-music-setup-v1-plan-explained.md
-2. A summmary of the interaction with the AI
-   - https://github.com/kasey6801/learn-by-building/blob/main/1.2a%20claude-music-setup-session-summary.md
-3. How the summary (2) was completed
-   - https://github.com/kasey6801/learn-by-building/blob/main/1.3a%20claude-music-setup-session-summary-meta.md
-  
-These three files provide an overview of the process, specific to each project.
-
 The skills you will lean on to use these tools are:
 - Critical thinking and analysis – Evaluating arguments, identifying biases, and assessing evidence
 - Written and oral communication – Articulating ideas clearly and persuasively across different formats
@@ -23,17 +8,30 @@ The skills you will lean on to use these tools are:
 - Information literacy – Distinguishing credible sources from unreliable ones in an information-rich world
 - Creative thinking – Approaching problems from multiple angles and generating original ideas
 
-You can build the technology skills along the way, by asking the LLMs (Claude, Gemini, ChatGPT, Qwen, DuckAI, Lumo etc.) to help you learn. 
+To learn more about how I appraoch this, start here: 
+- https://github.com/kasey6801/learn-by-building/blob/main/learning%20by%20building.md
+
+If you're ready for a closer look, look at the three documents I share for each project:
+1. An explanation of how development was done
+   - https://github.com/kasey6801/learn-by-building/blob/main/1.1a%20claude-music-setup-v1-plan-explained.md
+2. A summmary of the interaction with the LLM
+   - https://github.com/kasey6801/learn-by-building/blob/main/1.2a%20claude-music-setup-session-summary.md
+3. How the summary (2) was completed
+   - https://github.com/kasey6801/learn-by-building/blob/main/1.3a%20claude-music-setup-session-summary-meta.md
+  
+These three documents provide an overview of the process, specific to each project. The documents have been created with non-developers in mind.
+
+Questions? You can build understanding and skills along the way, by asking the LLMs (Claude, Gemini, ChatGPT, Qwen, DuckAI, Lumo etc.) to help you learn. 
 
 Your most valuable learning resource is, as always community. Here's one that is informative, helpful and welcoming: 
 - https://themultiverse.school
 
 Are you new to GitHub? 
-Github is an open source tool that enables version control, including documentation. To learn more, check out these resources:
+Github is an open source tool that enables version control for program files and supporting documents. To learn more, check out these resources:
 - https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs
 - https://learn.github.com
 
-What format are these documents in? 
+What format are the documents in? 
 - https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it
 - https://www.markdownguide.org
 
