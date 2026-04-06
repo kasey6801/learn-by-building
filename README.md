@@ -17,7 +17,7 @@
 <h3>To learn more about how I appraoch this, start here:</h3>
 https://github.com/kasey6801/learn-by-building/blob/main/learning%20by%20building.md
 
-<h3>If you're ready for a closer look, look at the three documents I share for each project: </h3>
+<h3>If you're ready for a closer look, review the three documents I share for each project: </h3>
 
 -  An explanation of how development was done: https://github.com/kasey6801/learn-by-building/blob/main/1.1a%20claude-music-setup-v1-plan-explained.md  
 
