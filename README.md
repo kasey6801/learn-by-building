@@ -3,6 +3,12 @@
 To learn more about how I appraoch this, start here: 
 - https://github.com/kasey6801/learn-by-building/blob/main/learning%20by%20building.md
 
+If you're ready for a closer look, look at the three files I share for each project. 
+
+The files are:
+1. A file to explain how development was done
+2. A summmary of 
+
 The skills you will lean on to use these tools are:
 - Critical thinking and analysis – Evaluating arguments, identifying biases, and assessing evidence
 - Written and oral communication – Articulating ideas clearly and persuasively across different formats
