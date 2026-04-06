@@ -1,11 +1,17 @@
 <h1>This repository focuses on providing assistance for non-developers new to using code as a productivity tool.</h1>
 
 <h3>The skills you will lean on to use these tools are:</h3>
+
 - Critical thinking and analysis – Evaluating arguments, identifying biases, and assessing evidence
+
 - Written and oral communication – Articulating ideas clearly and persuasively across different formats
+
 - Research skills – Gathering, organizing, and synthesizing information from diverse sources
+
 - Close reading and interpretation – Analyzing texts, symbols, and cultural artifacts for deeper meaning
+
 - Information literacy – Distinguishing credible sources from unreliable ones in an information-rich world
+
 - Creative thinking – Approaching problems from multiple angles and generating original ideas
 
 <h3>To learn more about how I appraoch this, start here:</h3>
