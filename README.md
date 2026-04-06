@@ -25,7 +25,7 @@ What format are these documents in?
 - https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it
 - https://www.markdownguide.org
 
-Learning more about Claude Cowork & Claude Code
+Learn more about Claude Cowork & Claude Code
 - https://www.youtube.com/watch?v=JhRgmQPv2Sg
 - https://ccforeveryone.com
 - https://support.claude.com/en/articles/13345190-get-started-with-cowork
