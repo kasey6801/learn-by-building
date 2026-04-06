@@ -13,6 +13,7 @@
 
 <h3>If you're ready for a closer look, look at the three documents I share for each project: </h3>
 1. An explanation of how development was done  
+
    - https://github.com/kasey6801/learn-by-building/blob/main/1.1a%20claude-music-setup-v1-plan-explained.md  
    
 2. A summmary of the interaction with the LLM  
