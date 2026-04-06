@@ -38,6 +38,7 @@ Github is an open source tool that enables version control for program files and
 - https://www.markdownguide.org
 
 <h3>Learn more about Claude Cowork & Claude Code </h3>
+
 - https://www.youtube.com/watch?v=JhRgmQPv2Sg
 
 - https://ccforeveryone.com
