@@ -1,6 +1,6 @@
-**This repository focuses on providing assistance for non-developers new to using code as a productivity tool.
-**
-To learn more about how I appraoch this, start with this document: 
+**This repository focuses on providing assistance for non-developers new to using code as a productivity tool.**
+
+To learn more about how I appraoch this, start here: 
 - https://github.com/kasey6801/learn-by-building/blob/main/learning%20by%20building.md
 
 The skills you will lean on to use these tools are:
@@ -11,16 +11,19 @@ The skills you will lean on to use these tools are:
 - Information literacy – Distinguishing credible sources from unreliable ones in an information-rich world
 - Creative thinking – Approaching problems from multiple angles and generating original ideas
 
-You can build the technology skills along the way, by asking the LLMs (Claude, Gemini, ChatGPT) to help you learn what's new to you. 
+You can build the technology skills along the way, by asking the LLMs (Claude, Gemini, ChatGPT, Qwen, DuckAI, Lumo etc.) to help you learn. 
 
-The most valuable learning resource is, as always community. Here's one that is informative, helpful and welcoming: 
+Your most valuable learning resource is, as always community. Here's one that is informative, helpful and welcoming: 
 - https://themultiverse.school
 
 Are you new to GitHub? 
+Github is an open source tool that enables version control, including documentation. To learn more, check out these resources:
+- https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs
+- https://learn.github.com
 
-For the purpose of accessing this document, github is an open source tool that enables version control, including documentation. To learn more, check out these resources:
-- https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/
-- https://learn.github.com/
+What format are these documents in? 
+- https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it
+- https://www.markdownguide.org
 
 Learning more about Claude Cowork & Claude Code
 - https://www.youtube.com/watch?v=JhRgmQPv2Sg
@@ -33,3 +36,5 @@ Additional Resources
 - https://www.criticalthinking.org/
 - https://www.sabrina.dev/
 - https://www.youtube.com/@sabrina_ramonov
+
+Have fun learning!
