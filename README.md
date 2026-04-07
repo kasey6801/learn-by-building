@@ -19,6 +19,7 @@
 https://github.com/kasey6801/learn-by-building/blob/main/learning%20by%20building.md
 
 <h2>If you're ready for a closer look, review the three documents I share for each project: </h2>
+These three documents provide an overview of the process, specific to each project. The documents have been created with non-developers in mind.
 
 <h3> Claude Music Setup </h3>
 
@@ -27,10 +28,7 @@ https://github.com/kasey6801/learn-by-building/blob/main/learning%20by%20buildin
 -  A summmary of the interaction with the LLM: https://github.com/kasey6801/learn-by-building/blob/main/1.2a%20claude-music-setup-session-summary.md
 
 -  How the summary was completed: https://github.com/kasey6801/learn-by-building/blob/main/1.3a%20claude-music-setup-session-summary-meta.md  
-  
-These three documents provide an overview of the process, specific to each project. The documents have been created with non-developers in mind.
-
-<h2>Your most valuable learning resource is, as always, community. Here's one that is informative, helpful and welcoming: </h2>
+<h2>Your most valuable learning resource is, as always, community. Here's one that's informative, helpful and welcoming: </h2>
 
 - https://themultiverse.school
   
