@@ -76,6 +76,6 @@ The text documents hosted here are in Markdown, which is a way to format documen
 
 
 
-All code hosted here is free to use (see the license file). 
+Code that I share here is free to use unless otherwise noted. 
 
 Have fun learning!
