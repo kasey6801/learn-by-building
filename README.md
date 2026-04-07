@@ -33,7 +33,6 @@ These three documents provide an overview of the process, specific to each proje
 <h2>Your most valuable learning resource is, as always, community. Here's one that is informative, helpful and welcoming: </h2>
 
 - https://themultiverse.school
-- https://github.com/lizTheDeveloper
   
 <h2>Questions?</h2>
 You can build understanding and skills along the way, by asking the LLMs (Claude, Gemini, ChatGPT, Qwen, DuckAI, Lumo etc.) to help you learn. 
@@ -62,13 +61,19 @@ Github is an open source tool that enables version control for program files and
 
 - https://code.claude.com/docs/en/quickstart
 
-<h2>Additional Resources </h2>
+<h2>People to learn from </h2>
 
 - https://www.criticalthinking.org/
 
 - https://www.sabrina.dev/
+  - https://www.youtube.com/@sabrina_ramonov
+    
+- https://natesnewsletter.substack.com/
+  - https://www.youtube.com/@NateBJones
+    
+- https://github.com/lizTheDeveloper
+  - https://www.youtube.com/@lizthedeveloper
 
-- https://www.youtube.com/@sabrina_ramonov
 
 
 All code hosted here is free to use (see the license file). 
