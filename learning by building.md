@@ -32,7 +32,7 @@ Three questions guide how I think about this:
 
 **"Would this be a good learning opportunity?"** I want each project to stretch my understanding in at least one meaningful direction; learning how a new tool works, encountering a type of problem I haven't handled before, or simply practicing the planning process itself with a different kind of challenge.
 
-**"What would an MVP or v1 scope look like? Is this overly complex?"** This is the constraint I consider carefully. The temptation to build the full vision in v1 is real, and it's the most reliable way to stall. A v1 should do one thing well. Future versions can do more.
+**What would an MVP or v1 scope look like? Is this overly complex?** This is the constraint I consider carefully. The temptation to build the full vision in v1 is real, and it's the most reliable way to stall. A v1 should do one thing well. Future versions can do more.
 
 These questions take time to answer well. I let ideas develop, stress-test them, and ask myself honestly whether the scope is manageable. Time spent here is never wasted.
 
