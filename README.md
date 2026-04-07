@@ -2,17 +2,17 @@
 
 <h2>The skills you will lean on to use these tools are:</h2>
 
-- Critical thinking and analysis: Evaluating arguments, identifying biases, and assessing evidence
+- **Critical thinking and analysis**: Evaluating arguments, identifying biases, and assessing evidence
 
-- Written and oral communication: Articulating ideas clearly across different formats
+- **Written and oral communication**: Articulating ideas clearly across different formats
 
-- Research skills: Gathering, organizing, and synthesizing information from diverse sources
+- **Research skills**: Gathering, organizing, and synthesizing information from diverse sources
 
-- Reading and interpretation: Analyzing texts, symbols, and artifacts
+- **Reading and interpretation**: Analyzing texts, symbols, and artifacts
 
-- Information literacy: Distinguishing credible sources from unreliable ones
+- **Information literacy**: Distinguishing credible sources from unreliable ones
 
-- Creative thinking: Approaching problems from different angles and developing ways to solve problems
+- **Creative thinking**: Approaching problems from different angles and developing ways to solve problems
 
 <h2>To learn more about how I appraoch this, start here:</h2>
 
