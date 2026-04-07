@@ -42,7 +42,7 @@ Github is an open source tool that enables version control for program files and
 - https://learn.github.com
 
 <h2>What format are these text documents in? </h2>
-The text documents hosted here are in **Markdown**, which is a way to format documents using plain text.
+The text documents hosted here are in Markdown, which is a way to format documents using plain text.
 
 - https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it
 
