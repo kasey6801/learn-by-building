@@ -27,7 +27,10 @@ These three documents provide an overview of the process, specific to each proje
 
 -  A summmary of the interaction with the LLM: https://github.com/kasey6801/learn-by-building/blob/main/1.2a%20claude-music-setup-session-summary.md
 
--  How the summary was completed: https://github.com/kasey6801/learn-by-building/blob/main/1.3a%20claude-music-setup-session-summary-meta.md  
+-  How the summary was completed: https://github.com/kasey6801/learn-by-building/blob/main/1.3a%20claude-music-setup-session-summary-meta.md
+
+***You can also learn more about how the LLMs were used by by looking at the WORKFLOW.md files I've shared.***
+
 <h2>Your most valuable learning resource is, as always, community. Here's one that's informative, helpful and welcoming: </h2>
 
 - https://themultiverse.school
