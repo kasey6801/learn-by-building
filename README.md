@@ -76,6 +76,9 @@ The text documents hosted here are in Markdown, which is a way to format documen
     
 - https://github.com/lizTheDeveloper
   - https://www.youtube.com/@lizthedeveloper
+  
+- https://greenteapress.com/wp/think-python-3rd-edition/
+  - https://allendowney.github.io/ThinkPython/
 
 
 
