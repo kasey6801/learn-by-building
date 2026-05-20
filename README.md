@@ -64,6 +64,12 @@ The text documents hosted here are in Markdown, which is a way to format documen
 
 - https://code.claude.com/docs/en/quickstart
 
+<h3>Getting Started with Claude Code</h3>
+
+[ClaudeCode-Getting-Started.md](https://github.com/kasey6801/learn-by-building/blob/main/ClaudeCode-Getting-Started.md) is a step-by-step guide written for anyone new to software development. It covers everything you need to go from a blank computer to a structured, well-documented software project using Claude Code and VS Code -- no prior coding experience required.
+
+Topics include: installing VS Code and Claude Code, understanding the VS Code terminal and common commands, setting up GitHub, choosing between the Claude Code desktop app and the VS Code extension, using the `/new-project` slash command to automate project setup, managing a backlog, security practices, writing a README, and maintaining a change log. A section on AI safety explains how to work with Claude deliberately so it does what you intend.
+
 <h2>People to learn from </h2>
 
 - https://www.criticalthinking.org/
