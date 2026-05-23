@@ -1,6 +1,7 @@
 # Claude Code: Project Process Guide
 ### A structured development process for AI-assisted software projects using VS Code and Claude Code
 
+**Version:** 1.1
 **Last Updated:** 2026-05-20  
 **Audience:** This document has been designed to assist those new to software development. 
 **Primary tools:** [Visual Studio Code](https://code.visualstudio.com) and [Claude Code](https://claude.com/docs)  
