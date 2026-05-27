@@ -82,7 +82,7 @@ These projects are primarily a learning opportunity. The skills I'm building ext
 
 **Structured planning.** Thinking through a problem completely before committing to a solution is a habit that's valuable in any professional context.
 
-**Scope discipline.** Asking "what does a Vv look like, is it overly complex?" is something I apply to every project. It's directly applicable to product management, project planning, and any effort where over engineering is a temptation.
+**Scope discipline.** Asking "what does "x" look like, is it overly complex?" is something I apply to every project. It's directly applicable to product management, project planning, and any effort where over engineering is a temptation.
 
 **Technical literacy.** Working through architecture decisions, technology comparisons, and system design in plain language has given me a much clearer understanding of how software systems are structured, which makes conversations with developers, architects and customers more productive.
 
@@ -104,4 +104,4 @@ This process is a small example of the approach described above.
 
 ---
 
-*Last updated: April 2026*
+*Last updated: May 2026*
