@@ -1,4 +1,4 @@
-# Learning by Building: A Framework for Non-Developers Who Want to Ship Things That Matter
+# Learning by Building: A Framework for Non-Developers Who Want to Build Things That Matter
 
 ---
 
@@ -6,19 +6,21 @@
 
 This document describes how I approach building software solutions without being a software developer. I'm sharing it, in the spirit of open source, for executives, technical program managers, and anyone curious about using code as a tool rather than a career. This is not prescriptive. It's simply what works for me, documented honestly in case it's useful to others.
 
-The foundation of my approach is code is a tool, not a profession. As a pilot, I can fly the plane, but I depend on mechanics, air traffic control, ground crews, and countless others to make flying possible. My job is to get us to the destination safely and purposefully; their job is to make sure everything required to do that is working. Working with code is no different. I don't need to be a developer to direct the creation of software; I need to know where I'm going, plan the route, and use the right tools to get there. What I do need is a structured approach, the right tools, and the discipline to plan before I build.
+The foundation of my approach is that code is a tool. As a pilot, I can fly the plane, but I depend on mechanics, air traffic control, ground crews, and countless others to make flying possible. My job is to get us to the destination safely; their job is to make sure everything required to do that is working. Working with code is no different. I don't need to be a developer to direct the creation of software; I need to know where I'm going, plan the route, and use the right tools to get there. What I do need is a structured approach, the right tools, and the discipline to plan before I build.
 
 Everything described here was developed through real projects.
 
 ---
 
-## The Philosophy: Code as a Tool, Not a Career
+## The Philosophy: Code as a Tool
 
-My goal is not to learn to code. That will happen as a byproduct, and it's welcome as it does, but it's not what I'm after. What I'm developing is the ability to *work with code and coding tools to deliver solutions*; to turn a practical idea into a working solution using the tools available to me.
+My goal is not to learn to code*. That will happen as a byproduct, and it's welcome as it does, but it's not what I'm after. What I'm developing is the ability to *work with code and coding tools to deliver solutions*; to turn a practical idea into a working solution using the tools available to me.
 
 That distinction matters to me. "Learning to code" implies a long apprenticeship before anything useful gets produced. "Working with code as a tool" is different: I identify a problem, I plan a solution, and I use AI coding tools to execute that plan, much like understanding the math well enough to set up the problem correctly, then using a calculator to work through it and validate the answer. The calculator doesn't replace the thinking, it executes and confirms it.
 
-The skills I'm building through this approach go beyond any single tool or project. The discipline of structured planning, the habit of scoping carefully, the ability to evaluate technical tradeoffs, and the practice of documenting decisions are all directly applicable to software design and product management. And while I'm currently using Claude and VS Code, the underlying method; plan thoroughly, execute deliberately, reflect and adjust; isn't tied to those tools. It transfers to whatever tools come next.
+The skills I'm building through this approach go beyond any single tool or project. The discipline of structured planning, the habit of scoping carefully, the ability to evaluate technical tradeoffs, and the practice of documenting decisions are all directly applicable to software design and product management. While I'm currently using Claude and VS Code, the underlying method; plan thoroughly, execute deliberately, reflect and adjust; isn't tied to those tools. It transfers to whatever tools come next.
+
+*Yes, I am learning to code, but that's a parallel effort
 
 ---
 
