@@ -23,11 +23,11 @@ These three documents provide an overview of the process, specific to each proje
 
 <h3> Claude Music Setup </h3>
 
--  An explanation of how development was done: https://github.com/kasey6801/learn-by-building/blob/main/1.1a%20claude-music-setup-v1-plan-explained.md  
+-  An explanation of how development was done: https://github.com/kasey6801/learn-by-building/blob/main/Claude-Music/1.1a%20claude-music-setup-v1-plan-explained.md  
 
--  A summmary of the interaction with the LLM: https://github.com/kasey6801/learn-by-building/blob/main/1.2a%20claude-music-setup-session-summary.md
+-  A summmary of the interaction with the LLM: https://github.com/kasey6801/learn-by-building/blob/main/Claude-Music/1.2a%20claude-music-setup-session-summary.md
 
--  How the summary was completed: https://github.com/kasey6801/learn-by-building/blob/main/1.3a%20claude-music-setup-session-summary-meta.md
+-  How the summary was completed: https://github.com/kasey6801/learn-by-building/blob/main/Claude-Music/1.3a%20claude-music-setup-session-summary-meta.md
 
 ***You can also learn more about how the LLMs were used by by looking at the WORKFLOW.md files I've shared.***
 
@@ -66,7 +66,7 @@ The text documents hosted here are in Markdown, which is a way to format documen
 
 <h3>Getting Started with Claude Code</h3>
 
-[ClaudeCode-Getting-Started_v1.2.md](https://github.com/kasey6801/learn-by-building/blob/main/ClaudeCode-Getting-Started_v1.2.md) is a step-by-step guide written for anyone new to software development. It covers everything you need to get started, providing you with a template for a structured, well-documented software project using Claude Code and VS Code -- no prior coding experience required.
+[ClaudeCode-Getting-Started_v1.2.md](https://github.com/kasey6801/learn-by-building/blob/main/ClaudeCode-Getting-Started/ClaudeCode-Getting-Started_v1.2.md) is a step-by-step guide written for anyone new to software development. It covers everything you need to get started, providing you with a template for a structured, well-documented software project using Claude Code and VS Code -- no prior coding experience required.
 
 Topics include: installing VS Code and Claude Code, understanding the VS Code terminal and common commands, setting up GitHub, choosing between the Claude Code desktop app and the VS Code extension, using the `/new-project` slash command to automate project setup, managing a backlog, security practices, writing a README, and maintaining a change log. A brief section on AI safety explains considerations to keep in mind.
 
